@@ -25,3 +25,4 @@ brew install --cask steam
 brew install --cask epic-games
 brew install --cask backblaze
 brew install --cask insta360-studio
+brew install --cask calibre
