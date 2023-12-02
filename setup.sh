@@ -21,3 +21,5 @@ brew install --cask microsoft-office
 brew install wget
 brew install links
 brew install watch
+brew install --cask steam
+brew install --cask epic-games
