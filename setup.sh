@@ -23,3 +23,4 @@ brew install links
 brew install watch
 brew install --cask steam
 brew install --cask epic-games
+brew install --cask backblaze
