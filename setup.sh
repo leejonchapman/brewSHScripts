@@ -12,7 +12,7 @@ brew install youtube-dl
 brew install --cask openemu
 brew install htop
 brew install tmux
-brew install --cask therm
+brew install --cask iterm2
 brew install neovim-qt
 brew install midnight-commander
 brew install --cask powershell
